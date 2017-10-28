@@ -43,6 +43,6 @@
 	    "course" => "Bildung",
 	    "workshop" => "Workshop",
 	    "conference" => "Konferenz",
-	    "debate" => "Debatte",
+	    "debate" => "Diskussion",
 	)
 ?>

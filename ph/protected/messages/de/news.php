@@ -1,6 +1,6 @@
 <?php
 return array(
-"Share a thought, an idea" => "Teile mit uns einen Gedanken oder Idee",
+"Share a thought, an idea" => "Teilen Sie mit uns einen Gedanken oder Idee",
 	"In a few words" => "In wenigen Worten",
 	"Details" => "Im Detail",
 	"Send to" => "Gesendet an",
@@ -17,13 +17,19 @@ return array(
 	"displayShared-organizations" 	=> "une organization",
 	"displayShared-events" 			=> "un événement",
 	"displayShared-classified" 		=> "une annonce",*/
-	"a news"       => "eine Veröffentlichung", 
+	"a news" => "eine Veröffentlichung", 
 	"created" => "erstellt", 
   	"shared" => "geteilt", 
   	"have shared" => "habe geteilt", 
   	"Back to my page"=> "Zurück zu meiner Seite",
   	"Back to home"=> "Zurück zur Startseite",
   	"This link points to a dead news"=> "Dieser Link führt auf eine nicht mehr existierende Seite",
-  	"The author has probably deleted the news"=> "Der Autor hat diesen Eintrag vermutlich gelöscht"
+  	"The author has probably deleted the news"=> "Der Autor hat diesen Eintrag vermutlich gelöscht",
+	"published {what} {where}" => "",
+	
+	"a message" => "eine Nachricht",
+	"in the newspaper of {who}" => "in der Zeitung von {who}",
+	"in your newspaper" => "in Ihrer Zeitung",
+	"in ce newspaper" => "in der Zeitung",
 );
 ?>
